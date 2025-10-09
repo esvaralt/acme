@@ -1,20 +1,17 @@
 project:
   type: website
-  resources:
-    - "*.png"
-    - "/images/favico.ico"
-    - "/images/logo2.png"
 
 website:
   site-url: "https://acmesemiotics.com"
   title: "Acme Semiotics"
   description: "Semiology since 1897"
-  favicon: favicon.ico
+  favicon: images/favicon.ico
   page-navigation: true
   reader-mode: true
   bread-crumbs: true
   open-graph: true
   navbar:
+     logo: images/logo3.png
      left:
       - href: index.qmd
         text: Home
