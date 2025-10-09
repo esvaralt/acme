@@ -1,0 +1,37 @@
+project:
+  type: website
+  resources:
+    - "*.png"
+    - "/images/favico.ico"
+    - "/images/logo2.png"
+
+website:
+  site-url: "https://acmesemiotics.com"
+  title: "Acme Semiotics"
+  description: "Semiology since 1897"
+  favicon: favicon.ico
+  page-navigation: true
+  reader-mode: true
+  bread-crumbs: true
+  open-graph: true
+  navbar:
+     logo: /images/logo2.png
+     left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+     tools:
+      - icon: mastodon
+        href: https://pkm.social/@bbelton
+        rel: me
+  page-footer: "Copyright 2025"
+
+
+format:
+  html:
+    theme:
+      - sandstone
+    css: styles.css
+    toc: true
+
+
