@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://acmesemiotics.com/about.html</loc>
-    <lastmod>2025-10-08T01:53:24.129Z</lastmod>
+    <loc>https://acmesemiotics.com/posts.html</loc>
+    <lastmod>2025-10-09T16:06:02.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acmesemiotics.com/index.html</loc>
+    <lastmod>2025-10-09T15:45:58.608Z</lastmod>
   </url>
   <url>
     <loc>https://acmesemiotics.com/new.html</loc>
     <lastmod>2025-10-08T20:17:02.535Z</lastmod>
   </url>
   <url>
-    <loc>https://acmesemiotics.com/index.html</loc>
-    <lastmod>2025-10-09T15:36:04.301Z</lastmod>
+    <loc>https://acmesemiotics.com/about.html</loc>
+    <lastmod>2025-10-08T01:53:24.129Z</lastmod>
   </url>
 </urlset>
