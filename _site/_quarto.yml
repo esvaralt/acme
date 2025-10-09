@@ -15,7 +15,6 @@ website:
   bread-crumbs: true
   open-graph: true
   navbar:
-     logo: /images/logo2.png
      left:
       - href: index.qmd
         text: Home
