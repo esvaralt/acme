@@ -16,7 +16,11 @@ website:
       - href: index.qmd
         text: Home
       - posts.qmd
-      - about.qmd
+      - href: "https://karmicresonance.bandcamp.com/music"
+        text: Music
+      - href: "https://quantumjewel.org"
+        text: Writing
+      - about.qmd  
      tools:
       - icon: mastodon
         href: https://pkm.social/@bbelton
