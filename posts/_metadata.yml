@@ -7,7 +7,7 @@ freeze: true
 title-block-banner: true
 
 # Author name of all blog posts
-author: 'bhangakhana'
+
 
 # Table of content settings
 toc: true
