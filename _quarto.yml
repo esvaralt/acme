@@ -2,7 +2,6 @@ project:
   type: website
 
 website:
-  site-url: "https://acmesemiotics.com"
   title: "Acme Semiotics"
   description: "Semiology since 1897"
   favicon: images/favicon.ico
@@ -13,18 +12,34 @@ website:
   navbar:
      logo: images/logo3.png
      left:
-      - href: index.qmd
-        text: Home
-      - posts.qmd
-      - href: "https://karmicresonance.bandcamp.com/music"
-        text: Music
-      - href: "https://quantumjewel.org"
-        text: Writing
-      - about.qmd  
+       - text: Home
+         href: index.qmd
+       - about.qmd
      tools:
       - icon: mastodon
         href: https://pkm.social/@bbelton
         rel: me
+  sidebar:
+    style: "floating"
+    collapse-level: 3
+    contents:
+       - text: "Introduction"
+         href: index.qmd
+       - text: "Music"
+         href: https://karmicresonce.bandcamp.com/music
+#         contents:
+#         - text: "Karmic Resonance"
+#         - href: https://karmicresonance.bandcamp.com
+       - section: "Writings"
+         contents:
+         - posts.qmd
+         - text: "Poetry"
+           href: "https://acmesemiotics.com/posts.html#category=poetry"
+         - section: "Works in Progress"
+           contents:
+             - text: "The Jewel in the Garden"
+               href: "https://quantumjewel.org"
+
   page-footer: "Copyright 2025"
 
 
