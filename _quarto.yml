@@ -19,6 +19,7 @@ website:
       - icon: mastodon
         href: https://pkm.social/@bbelton
         rel: me
+
   sidebar:
     style: "floating"
     collapse-level: 3
@@ -39,6 +40,7 @@ website:
            contents:
              - text: "The Jewel in the Garden"
                href: "https://quantumjewel.org"
+
 
   page-footer: "Copyright 2025"
 
