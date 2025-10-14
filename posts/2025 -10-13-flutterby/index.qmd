@@ -1,6 +1,6 @@
 ---
 title: Pheromonal stomata
-category: future
+categories: future
 date: 2025-10-13
 type: fiction
 author: bhangakhana
