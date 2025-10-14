@@ -1,7 +1,7 @@
 ---
 title: Da gusto hacerlo
 description: "In memory of J.G. Ballard"
-categories: poetry
+categories: poetry, past
 ---
 
 

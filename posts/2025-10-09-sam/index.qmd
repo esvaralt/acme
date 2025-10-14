@@ -2,7 +2,7 @@
 title: Sam  - a pride month remembrance
 description: This is an old post just to get things going
 date: 2023-06-03 12:01
-categories: pride
+categories: pride, past
 author: bhangakhana
 tags: [essay]
 citation:
