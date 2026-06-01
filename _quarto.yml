@@ -4,11 +4,13 @@ project:
 website:
   title: "Acme Semiotics"
   description: "Semiology since 1897"
+  site-url: https://acmesemiotics.com
   favicon: images/favicon.ico
   page-navigation: true
   reader-mode: true
   bread-crumbs: true
   open-graph: true
+  feed: true
   navbar:
      logo: images/logo3.png
      left:
