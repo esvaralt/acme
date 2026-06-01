@@ -10,7 +10,7 @@ website:
   reader-mode: true
   bread-crumbs: true
   open-graph: true
-  feed: true
+ 
   navbar:
      logo: images/logo3.png
      left:
@@ -22,7 +22,8 @@ website:
         href: https://pkm.social/@bbelton
         rel: me
       - icon: rss
-        href: index.xml
+        href: posts.xml
+
 
   sidebar:
     style: "floating"
