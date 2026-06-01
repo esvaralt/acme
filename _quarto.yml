@@ -19,6 +19,8 @@ website:
       - icon: mastodon
         href: https://pkm.social/@bbelton
         rel: me
+      - icon: rss
+        href:index.xml
 
   sidebar:
     style: "floating"
