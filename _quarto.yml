@@ -60,7 +60,7 @@ format:
     toc: true
     include-in-header:
       - text: 
-          <link rel="alternate" type="aplication/rss+xml title="RSS" href="/posts.xml">
+          <link rel="alternate" type="application/rss+xml" title="RSS" href="/posts.xml">
 
 execute:
   freeze: auto
