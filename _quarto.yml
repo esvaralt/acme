@@ -58,6 +58,9 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-in-header:
+      - text: 
+          <link rel="alternate" type="aplication/rss+xml title="RSS" href="/posts.xml">
 
 execute:
   freeze: auto
