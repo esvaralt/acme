@@ -22,7 +22,7 @@ website:
         href: https://pkm.social/@bbelton
         rel: me
       - icon: rss
-        href:index.xml
+        href: index.xml
 
   sidebar:
     style: "floating"
