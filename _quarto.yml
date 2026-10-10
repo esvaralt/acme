@@ -19,7 +19,7 @@ website:
        - about.qmd
      tools:
       - icon: mastodon
-        href: https://pkm.social/@bbelton
+        href: https://beige.party/@karmic_resonance
         rel: me
       - icon: rss
         type: application/rss+xml
